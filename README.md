@@ -7,12 +7,11 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | [Your Full Name] |
-| **Registration No.** | [Your Reg No.] |
-| **Branch** | [Your Branch, e.g., CSE] |
+| **Name** | SATWIK SINGH |
+| **Registration No.** | 25BCE10673 |
+| **Branch** | B.TECH CSE(Core) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Submission Date** | [Date] |
 
 ---
 
@@ -49,7 +48,7 @@ digital-literacy-project/
 
 ### Task 1 – Digital Literacy Infographic (Module 1)
 Created a one-page infographic using **Canva** covering what digital literacy is, useful student tools, safe internet practices, professional online presence, and email etiquette.
-> 🔗 Canva Link: [Paste your Canva design link here]
+> 🔗 Canva Link: https://www.canva.com/design/DAHEkM2NsWg/BatjKPO-sNoO0g6-8ZwUgA/edit?utm_content=DAHEkM2NsWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Task 2 – Student Digital Portfolio (Module 2)
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle** to build a foundational digital presence for academic and career growth.
