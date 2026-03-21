@@ -27,7 +27,7 @@ As a Student Digital Ambassador at VIT Bhopal, this portfolio demonstrates my di
 digital-literacy-project/
 ├── README.md
 ├── report/
-│   └── Project_Report.pdf
+│   └── report.md
 ├── task-1-presentation/
 │   └── description.md
 ├── task-2-portfolio/
